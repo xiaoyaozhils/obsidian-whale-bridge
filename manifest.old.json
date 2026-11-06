@@ -1,0 +1,9 @@
+{
+  "id": "whale-obsidian-bridge",
+  "name": "Whale Bridge",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Local HTTP bridge so an AI agent can read, write and drive this vault.",
+  "author": "鲸鲸",
+  "isDesktopOnly": true
+}

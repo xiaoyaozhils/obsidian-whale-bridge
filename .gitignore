@@ -1,0 +1,4 @@
+*.old.js
+*.old.json
+data.json
+node_modules/
